@@ -4,7 +4,7 @@ FullName: Adenken
 FamilyName: Adenken
 Weight: Book
 Copyright: Adenken (c) 2015, Random Wizard
-Version: 1.0 build 2
+Version: 1.0 build 1
 ItalicAngle: 0
 UnderlinePosition: -102
 UnderlineWidth: 101
@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1165263488
-ModificationTime: 1723340884
+ModificationTime: 1723342040
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2842,7 +2842,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "Copyright (c) 2015, Random Wizard" "" "Regular" "Adenken" "" "Version 1.0 build 2" "" "" "" "" "" "" "" "Copyright (c) 2015, Random Wizard+AAoA-with Reserved Font Name Adenken.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-https://openfontlicense.org+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "Copyright (c) 2015, Random Wizard" "" "Regular" "Adenken" "" "Version 1.0 build 1" "" "" "" "" "" "" "" "Copyright (c) 2015, Random Wizard+AAoA-with Reserved Font Name Adenken.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-https://openfontlicense.org+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 2 5 2 65535 3 0
 Encoding: UnicodeBmp
 Compacted: 1
@@ -2852,7 +2852,7 @@ DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 307
-WinInfo: 0 30 9
+WinInfo: 0 28 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -2872,8 +2872,6 @@ Width: 531
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 
 StartChar: exclam
@@ -5351,80 +5349,81 @@ Encoding: 68 68 36
 Width: 1491
 GlyphClass: 2
 Flags: W
-HStem: -10 118<436.867 852.981> 1408 103<73.6611 189.194> 1415.7 155.3<471.969 788.053>
-VStem: 190 209<160.458 1326.96> 1169 247<454.275 983.012>
+HStem: -10 118<436.867 852.981> 1408 103<73.6611 189.194> 1421 150<483.454 788.512>
+VStem: 190 209<160.458 1268.93> 1169 247<454.275 980.068>
 LayerCount: 2
 Fore
 SplineSet
-190 391 m 1,0,-1
- 190 529 l 1,1,2
- 190 714 190 714 183 774 c 1,3,4
- 188 789 188 789 188 1129 c 1,5,6
- 190 1266 190 1266 190 1310 c 0,7,8
- 190 1322 l 0,9,10
- 190 1334 190 1334 190 1366 c 0,11,12
- 190 1374 190 1374 168 1391 c 128,-1,13
- 146 1408 146 1408 128 1408 c 0,14,15
- 108 1408 108 1408 90 1430 c 128,-1,16
- 72 1452 72 1452 72 1458 c 128,-1,17
- 72 1464 72 1464 72 1476 c 1,18,19
- 72 1498 72 1498 93 1511 c 128,-1,20
- 114 1524 114 1524 179 1535 c 0,21,22
- 246 1546 246 1546 268 1560 c 0,23,24
- 289 1573 289 1573 330 1573 c 0,25,26
- 333 1573 333 1573 336 1573 c 0,27,-1
- 341 1573 l 0,28,29
- 391 1572 391 1572 406.5 1571.5 c 128,-1,30
- 422 1571 422 1571 520 1571 c 0,31,32
- 623 1571 623 1571 681 1549 c 0,33,34
- 690 1546 690 1546 762 1532 c 128,-1,35
- 834 1518 834 1518 930.5 1481.5 c 128,-1,36
- 1027 1445 1027 1445 1046.5 1429 c 128,-1,37
- 1066 1413 1066 1413 1097 1397 c 0,38,39
- 1147 1372 1147 1372 1230 1266.5 c 128,-1,40
- 1313 1161 1313 1161 1334 1099 c 0,41,42
- 1403 889 1403 889 1409.5 841.5 c 128,-1,43
- 1416 794 1416 794 1416 742 c 2,44,-1
- 1416 691 l 2,45,46
- 1416 540 1416 540 1363.5 410 c 128,-1,47
- 1311 280 1311 280 1222 194 c 0,48,49
- 1086 64 1086 64 853 13 c 0,50,51
+190 391 m 5,0,-1
+ 190 529 l 5,1,2
+ 190 714 190 714 183 774 c 5,3,4
+ 188 789 188 789 188 1129 c 5,5,6
+ 190 1266 190 1266 190 1310 c 4,7,8
+ 190 1322 l 4,9,10
+ 190 1334 190 1334 190 1366 c 4,11,12
+ 190 1374 190 1374 168 1391 c 132,-1,13
+ 146 1408 146 1408 128 1408 c 4,14,15
+ 108 1408 108 1408 90 1430 c 132,-1,16
+ 72 1452 72 1452 72 1458 c 132,-1,17
+ 72 1464 72 1464 72 1476 c 5,18,19
+ 72 1498 72 1498 93 1511 c 132,-1,20
+ 114 1524 114 1524 179 1535 c 4,21,22
+ 246 1546 246 1546 268 1560 c 4,23,24
+ 289 1573 289 1573 330 1573 c 4,25,26
+ 333 1573 333 1573 336 1573 c 4,27,-1
+ 341 1573 l 4,28,29
+ 391 1572 391 1572 406.5 1571.5 c 132,-1,30
+ 422 1571 422 1571 520 1571 c 4,31,32
+ 623 1571 623 1571 681 1549 c 4,33,34
+ 690 1546 690 1546 762 1532 c 132,-1,35
+ 834 1518 834 1518 930.5 1481.5 c 132,-1,36
+ 1027 1445 1027 1445 1046.5 1429 c 132,-1,37
+ 1066 1413 1066 1413 1097 1397 c 4,38,39
+ 1147 1372 1147 1372 1230 1266.5 c 132,-1,40
+ 1313 1161 1313 1161 1334 1099 c 4,41,42
+ 1403 889 1403 889 1409.5 841.5 c 132,-1,43
+ 1416 794 1416 794 1416 742 c 6,44,-1
+ 1416 691 l 6,45,46
+ 1416 540 1416 540 1363.5 410 c 132,-1,47
+ 1311 280 1311 280 1222 194 c 4,48,49
+ 1086 64 1086 64 853 13 c 4,50,51
  757 -8 757 -8 471 -8 c 0,52,53
  464 -10 464 -10 420 -10 c 0,54,55
- 390 -10 390 -10 297 0.5 c 128,-1,56
- 204 11 204 11 187.5 18.5 c 128,-1,57
- 171 26 171 26 158 45.5 c 128,-1,58
- 145 65 145 65 138 77 c 128,-1,59
- 131 89 131 89 131 104.5 c 128,-1,60
- 131 120 131 120 136 135 c 0,61,62
- 164 209 164 209 179 278 c 1,63,64
- 190 319 190 319 190 391 c 1,0,-1
-399 486 m 1,65,-1
- 399 446 l 6,66,-1
- 399 351 l 0,67,-1
- 399 310 l 0,68,-1
- 399 304 l 0,69,70
- 400 280 400 280 400 244 c 0,71,72
- 400 159 400 159 478 128 c 0,73,74
- 528 108 528 108 550 108 c 2,75,-1
- 575 108 l 2,76,77
- 626 108 626 108 742 128.5 c 128,-1,78
- 858 149 858 149 894 166.5 c 128,-1,79
- 930 184 930 184 943 184 c 0,80,81
- 971 184 971 184 1040 286 c 0,82,83
- 1169 477 1169 477 1169 708 c 0,84,85
- 1169 812 1169 812 1141 928 c 0,86,87
- 1098 1109 1098 1109 1008 1226.5 c 0,88,89
- 957 1293 957 1293 820.25 1374.85009766 c 0,90,91
- 752.497247108 1415.70019531 752.497247108 1415.70019531 571.5 1415.70019531 c 2,92,-1
- 566.5 1415.70019531 l 2,93,94
- 486 1416 486 1416 471.5 1399.70019531 c 0,95,96
- 442 1366 442 1366 424 1328.20019531 c 0,97,98
- 406 1290 406 1290 404 1068.20019531 c 0,99,100
- 402 846 402 846 401.5 714.700195312 c 1,101,102
- 400 600 400 600 399 486 c 1,65,-1
+ 390 -10 390 -10 297 0.5 c 132,-1,56
+ 204 11 204 11 187.5 18.5 c 132,-1,57
+ 171 26 171 26 158 45.5 c 132,-1,58
+ 145 65 145 65 138 77 c 132,-1,59
+ 131 89 131 89 131 104.5 c 132,-1,60
+ 131 120 131 120 136 135 c 4,61,62
+ 164 209 164 209 179 278 c 5,63,64
+ 190 319 190 319 190 391 c 5,0,-1
+410 618 m 5,65,-1
+ 410 486 l 5,66,-1
+ 410 447 l 6,67,68
+ 410 377 410 377 404 352 c 4,69,70
+ 399 331 399 331 399 310 c 4,71,72
+ 399 304 l 4,73,74
+ 400 280 400 280 400 244 c 4,75,76
+ 400 159 400 159 478 128 c 4,77,78
+ 528 108 528 108 550 108 c 6,79,-1
+ 575 108 l 6,80,81
+ 626 108 626 108 742 128.5 c 132,-1,82
+ 858 149 858 149 894 166.5 c 132,-1,83
+ 930 184 930 184 943 184 c 4,84,85
+ 971 184 971 184 1040 286 c 4,86,87
+ 1169 477 1169 477 1169 708 c 4,88,89
+ 1169 812 1169 812 1141 928 c 4,90,91
+ 1095 1119 1095 1119 1008 1226.5 c 132,-1,92
+ 921 1334 921 1334 826 1377.5 c 132,-1,93
+ 731 1421 731 1421 583 1421 c 6,94,-1
+ 578 1421 l 6,95,96
+ 497 1421 497 1421 483 1405 c 4,97,98
+ 453 1371 453 1371 435.5 1333.5 c 132,-1,99
+ 418 1296 418 1296 415.5 1073.5 c 132,-1,100
+ 413 851 413 851 413 720 c 5,101,102
+ 410 666 410 666 410 618 c 5,65,-1
 EndSplineSet
-Validated: 33
+Validated: 1
 Kerns2: 124 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 122 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 120 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 118 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 110 -61 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 109 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 57 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 56 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 54 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 52 -61 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 41 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 33 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -61 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 12 -61 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
@@ -7857,7 +7856,7 @@ EndChar
 
 StartChar: f
 Encoding: 102 102 70
-Width: 670
+Width: 654
 GlyphClass: 2
 Flags: W
 HStem: 1348 148<285.288 486.239>
@@ -7865,54 +7864,54 @@ VStem: 128 132<1117.03 1333.56> 188 204<140 757.5> 188 188<230 820>
 LayerCount: 2
 Fore
 SplineSet
-453 48 m 1,0,1
- 453 -4 453 -4 312 -4 c 0,2,3
- 276 -4 276 -4 252 0 c 0,4,5
- 230 4 230 4 198 30 c 0,6,7
- 167 55 167 55 167 74 c 1,8,-1
- 167 81 l 1,9,10
- 167 96 167 96 182 136 c 128,-1,11
- 197 176 197 176 197 206 c 0,12,13
- 197 215 197 215 197 215 c 0,14,15
- 190.25 250 190.25 250 188 300 c 0,16,17
- 186.875 325 186.875 325 186.875 376.75 c 128,-1,18
- 186.875 428.5 186.875 428.5 188 507 c 1,19,-1
- 188 820 l 1,20,-1
- 147 858 l 2,21,22
- 109 893 109 893 80 914 c 2,23,-1
- 55 932 l 1,24,-1
- 89 1006 l 2,25,26
- 105 1040 105 1040 118 1080 c 0,27,28
- 128 1110 128 1110 128 1176 c 0,29,30
- 128 1246 128 1246 153 1314.5 c 128,-1,31
- 178 1383 178 1383 228.5 1430 c 128,-1,32
- 279 1477 279 1477 310.5 1486.5 c 128,-1,33
- 342 1496 342 1496 370.5 1496 c 128,-1,34
- 399 1496 399 1496 448 1486 c 0,35,36
- 548 1464 548 1464 586 1402 c 0,37,38
- 600 1379 600 1379 600 1368 c 128,-1,39
- 600 1357 600 1357 586 1330 c 0,40,41
- 567 1294 567 1294 535 1294 c 0,42,43
- 493 1294 493 1294 458 1319 c 0,44,45
- 417 1348 417 1348 343 1348 c 1,46,47
- 312 1348 312 1348 294.5 1334 c 128,-1,48
- 277 1320 277 1320 268.5 1278 c 128,-1,49
- 260 1236 260 1236 260 1226 c 2,50,-1
- 260 1215 l 1,51,52
- 260 1163 260 1163 284 1137 c 0,53,54
- 353 1062 353 1062 431 1044 c 0,55,56
- 472 1034 472 1034 506 1008 c 0,57,58
- 548 976 548 976 548 948.5 c 128,-1,59
- 548 921 548 921 537.5 910.5 c 128,-1,60
- 527 900 527 900 482 890 c 0,61,62
- 438 880 438 880 420 866 c 0,63,64
- 376 831 376 831 376 758 c 0,65,66
- 376 742 376 742 378 724 c 0,67,68
- 392 612 392 612 392 320 c 1,69,-1
- 392 140 l 1,70,-1
- 429 96 l 2,71,72
- 450 64 450 64 453 48 c 1,0,1
+453 48 m 5,0,1
+ 453 -4 453 -4 312 -4 c 4,2,3
+ 276 -4 276 -4 252 0 c 4,4,5
+ 230 4 230 4 198 30 c 4,6,7
+ 167 55 167 55 167 74 c 5,8,-1
+ 167 81 l 5,9,10
+ 167 96 167 96 182 136 c 132,-1,11
+ 197 176 197 176 197 206 c 4,12,13
+ 197 211 197 211 197 215 c 4,14,15
+ 194 250 194 250 191 300 c 132,-1,16
+ 188 350 188 350 188 507 c 5,17,-1
+ 188 820 l 5,18,-1
+ 147 858 l 6,19,20
+ 109 893 109 893 80 914 c 6,21,-1
+ 55 932 l 5,22,-1
+ 89 1006 l 6,23,24
+ 105 1040 105 1040 118 1080 c 4,25,26
+ 128 1110 128 1110 128 1176 c 4,27,28
+ 128 1246 128 1246 153 1314.5 c 132,-1,29
+ 178 1383 178 1383 228.5 1430 c 132,-1,30
+ 279 1477 279 1477 310.5 1486.5 c 132,-1,31
+ 342 1496 342 1496 370.5 1496 c 132,-1,32
+ 399 1496 399 1496 448 1486 c 4,33,34
+ 548 1464 548 1464 586 1402 c 4,35,36
+ 600 1379 600 1379 600 1368 c 132,-1,37
+ 600 1357 600 1357 586 1330 c 4,38,39
+ 567 1294 567 1294 535 1294 c 4,40,41
+ 493 1294 493 1294 458 1319 c 4,42,43
+ 417 1348 417 1348 343 1348 c 5,44,45
+ 312 1348 312 1348 294.5 1334 c 132,-1,46
+ 277 1320 277 1320 268.5 1278 c 132,-1,47
+ 260 1236 260 1236 260 1226 c 6,48,-1
+ 260 1215 l 5,49,50
+ 260 1163 260 1163 284 1137 c 4,51,52
+ 353 1062 353 1062 431 1044 c 4,53,54
+ 472 1034 472 1034 506 1008 c 4,55,56
+ 548 976 548 976 548 948.5 c 132,-1,57
+ 548 921 548 921 537.5 910.5 c 132,-1,58
+ 527 900 527 900 482 890 c 4,59,60
+ 438 880 438 880 420 866 c 4,61,62
+ 376 831 376 831 376 758 c 4,63,64
+ 376 742 376 742 378 724 c 4,65,66
+ 392 612 392 612 392 320 c 5,67,-1
+ 392 140 l 5,68,-1
+ 429 96 l 6,69,70
+ 450 64 450 64 453 48 c 5,0,1
 EndSplineSet
+Validated: 1
 Kerns2: 125 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 123 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 121 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 119 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 7 102 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 102 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
@@ -8317,96 +8316,100 @@ Encoding: 109 109 77
 Width: 1688
 GlyphClass: 2
 Flags: W
-HStem: 977 136<495.468 682.525 1100.17 1264.54>
-VStem: 168 214<68.6562 886.295> 742 196<18.3193 857.698> 1279 205<181.301 821.902>
+HStem: 977 136<495.468 682.525 1100.37 1283.64>
+VStem: 168 214<41.4062 886.295> 712 216<28.4375 763.356> 742 196<228.667 857.698> 1270 230<172.003 744.855> 1298 202<243.135 820.417>
 LayerCount: 2
 Fore
 SplineSet
-168 585 m 1,0,-1
- 168 617 l 1,1,-1
- 168 816 l 2,2,3
- 168 861 168 861 158 888 c 128,-1,4
- 148 915 148 915 138 925.5 c 128,-1,5
- 128 936 128 936 100 955 c 0,6,7
- 56 985 56 985 56 1003 c 0,8,9
- 56 1015 56 1015 60 1031 c 0,10,11
- 70 1074 70 1074 146 1095 c 0,12,13
- 187 1106 187 1106 205.5 1106 c 128,-1,14
- 224 1106 224 1106 249 1099.5 c 128,-1,15
- 274 1093 274 1093 326 1047.5 c 128,-1,16
- 378 1002 378 1002 390 1002 c 128,-1,17
- 402 1002 402 1002 452 1039 c 128,-1,18
- 502 1076 502 1076 542 1094.5 c 128,-1,19
- 582 1113 582 1113 642 1113 c 128,-1,20
- 702 1113 702 1113 736 1104.5 c 128,-1,21
- 770 1096 770 1096 834 1050 c 128,-1,22
- 898 1004 898 1004 920 999.5 c 128,-1,23
- 942 995 942 995 959 995 c 128,-1,24
- 976 995 976 995 1020 1018 c 128,-1,25
- 1064 1041 1064 1041 1093 1063 c 128,-1,26
- 1122 1085 1122 1085 1146 1092 c 128,-1,27
- 1170 1099 1170 1099 1231 1099 c 128,-1,28
- 1292 1099 1292 1099 1306 1096 c 128,-1,29
- 1320 1093 1320 1093 1348 1078 c 0,30,31
- 1400 1050 1400 1050 1444 951 c 0,32,33
- 1484 861 1484 861 1484 339 c 0,34,35
- 1484 271 1484 271 1500 228 c 128,-1,36
- 1516 185 1516 185 1537 171.5 c 128,-1,37
- 1558 158 1558 158 1597 141 c 128,-1,38
- 1636 124 1636 124 1636 102 c 0,39,40
- 1636 94 1636 94 1627 82 c 0,41,42
- 1619 71 1619 71 1558 42 c 0,43,44
- 1481 6 1481 6 1449.5 6 c 128,-1,45
- 1418 6 1418 6 1414 8 c 0,46,47
- 1388 21 1388 21 1376 32.5 c 0,48,49
- 1334 72 1334 72 1313 113 c 0,50,51
- 1279 176.641025641 1279 176.641025641 1279 586.5 c 6,52,-1
- 1279 644.5 l 2,53,54
- 1279 682 1279 682 1293 735 c 128,-1,55
- 1307 788 1307 788 1307 823 c 128,-1,56
- 1307 858 1307 858 1289 893.5 c 0,57,58
- 1272 928 1272 928 1257 941.5 c 0,59,60
- 1220 976 1220 976 1174.5 974.75 c 0,61,62
- 1116 974 1116 974 1030 905 c 0,63,64
- 1005 885 1005 885 992 869 c 0,65,66
- 968 842 968 842 962 821 c 0,67,68
- 947 766 947 766 944 753 c 0,69,70
- 938 721 938 721 938 643 c 1,71,72
- 932 612 932 612 935.5 494 c 128,-1,73
- 939 376 939 376 938 224 c 1,74,-1
- 938 81 l 2,75,76
- 938 49 938 49 930 27.5 c 128,-1,77
- 922 6 922 6 854 6 c 0,78,79
- 767 6 767 6 732 66 c 0,80,-1
- 731.5 113 l 0,81,82
- 730 124 730 124 731 131 c 0,83,84
- 736 167 736 167 736 334 c 0,85,86
- 736 499 736 499 742 527 c 1,87,88
- 742 632 742 632 742 680 c 128,-1,89
- 742 728 742 728 742 764.5 c 128,-1,90
- 742 801 742 801 720 863.5 c 128,-1,91
- 698 926 698 926 683 943 c 128,-1,92
- 668 960 668 960 629 968.5 c 128,-1,93
- 590 977 590 977 573 977 c 128,-1,94
- 556 977 556 977 539 971 c 128,-1,95
- 522 965 522 965 452 910.5 c 128,-1,96
- 382 856 382 856 382 752 c 2,97,-1
- 382 602 l 1,98,-1
- 388 508 l 1,99,-1
- 392 391 l 1,100,101
- 392 354 392 354 390.5 327 c 128,-1,102
- 389 300 389 300 389 203 c 128,-1,103
- 389 106 389 106 380 76 c 128,-1,104
- 371 46 371 46 347 26 c 128,-1,105
- 323 6 323 6 312 6 c 128,-1,106
- 301 6 301 6 271 23 c 0,107,108
- 239 40 239 40 231 47 c 0,109,110
- 202 73 202 73 199 114 c 0,111,112
- 188 247 188 247 181 336.5 c 0,113,114
- 170 480 170 480 169 502 c 0,115,116
- 168 544 168 544 168 585 c 1,0,-1
+168 585 m 5,0,-1
+ 168 617 l 5,1,-1
+ 168 816 l 6,2,3
+ 168 861 168 861 158 888 c 132,-1,4
+ 148 915 148 915 138 925.5 c 132,-1,5
+ 128 936 128 936 100 955 c 4,6,7
+ 56 985 56 985 56 1003 c 4,8,9
+ 56 1015 56 1015 60 1031 c 4,10,11
+ 70 1074 70 1074 146 1095 c 4,12,13
+ 187 1106 187 1106 205.5 1106 c 132,-1,14
+ 224 1106 224 1106 249 1099.5 c 132,-1,15
+ 274 1093 274 1093 326 1047.5 c 132,-1,16
+ 378 1002 378 1002 390 1002 c 132,-1,17
+ 402 1002 402 1002 452 1039 c 132,-1,18
+ 502 1076 502 1076 542 1094.5 c 132,-1,19
+ 582 1113 582 1113 642 1113 c 132,-1,20
+ 702 1113 702 1113 736 1104.5 c 132,-1,21
+ 770 1096 770 1096 834 1050 c 132,-1,22
+ 898 1004 898 1004 920 999.5 c 132,-1,23
+ 942 995 942 995 959 995 c 132,-1,24
+ 976 995 976 995 1020 1018 c 132,-1,25
+ 1064 1041 1064 1041 1093 1063 c 132,-1,26
+ 1122 1085 1122 1085 1146 1092 c 132,-1,27
+ 1170 1099 1170 1099 1231 1099 c 132,-1,28
+ 1292 1099 1292 1099 1306 1096 c 132,-1,29
+ 1320 1093 1320 1093 1348 1078 c 4,30,31
+ 1400 1050 1400 1050 1444 951 c 132,-1,32
+ 1488 852 1488 852 1488 691.5 c 132,-1,33
+ 1488 531 1488 531 1500 467 c 5,34,-1
+ 1500 340 l 6,35,36
+ 1500 272 1500 272 1516 229 c 132,-1,37
+ 1532 186 1532 186 1545 172 c 132,-1,38
+ 1558 158 1558 158 1597 141 c 132,-1,39
+ 1636 124 1636 124 1636 102 c 4,40,41
+ 1636 94 1636 94 1627 82 c 4,42,43
+ 1619 71 1619 71 1558 42 c 4,44,45
+ 1481 6 1481 6 1449.5 6 c 132,-1,46
+ 1418 6 1418 6 1414 8 c 4,47,48
+ 1372 30 1372 30 1362 36 c 4,49,50
+ 1328 60 1328 60 1299 116.5 c 132,-1,51
+ 1270 173 1270 173 1270 241 c 132,-1,52
+ 1270 309 1270 309 1284 417.5 c 132,-1,53
+ 1298 526 1298 526 1298 585 c 6,54,-1
+ 1298 643 l 6,55,56
+ 1298 680 1298 680 1312 733.5 c 132,-1,57
+ 1326 787 1326 787 1326 821.5 c 132,-1,58
+ 1326 856 1326 856 1308 892 c 4,59,60
+ 1291 927 1291 927 1276 940 c 4,61,62
+ 1239 974 1239 974 1177.5 974 c 132,-1,63
+ 1116 974 1116 974 1030 905 c 4,64,65
+ 1005 885 1005 885 992 869 c 4,66,67
+ 966 840 966 840 962 821 c 4,68,69
+ 950 783 950 783 944 753 c 4,70,71
+ 938 721 938 721 938 643 c 5,72,73
+ 932 612 932 612 930 496 c 132,-1,74
+ 928 380 928 380 928 225 c 5,75,-1
+ 928 80 l 6,76,77
+ 928 48 928 48 920 26.5 c 132,-1,78
+ 912 5 912 5 844 5 c 4,79,80
+ 757 5 757 5 722 65 c 4,81,82
+ 712 82 712 82 712 107 c 4,83,84
+ 712 118 712 118 713 125 c 4,85,86
+ 718 161 718 161 718 328 c 4,87,88
+ 718 493 718 493 724 521 c 5,89,90
+ 724 626 724 626 733 677 c 132,-1,91
+ 742 728 742 728 742 764.5 c 132,-1,92
+ 742 801 742 801 720 863.5 c 132,-1,93
+ 698 926 698 926 683 943 c 132,-1,94
+ 668 960 668 960 629 968.5 c 132,-1,95
+ 590 977 590 977 573 977 c 132,-1,96
+ 556 977 556 977 539 971 c 132,-1,97
+ 522 965 522 965 452 910.5 c 132,-1,98
+ 382 856 382 856 382 752 c 6,99,-1
+ 382 602 l 5,100,101
+ 388 560 388 560 388 507 c 5,102,-1
+ 388 392 l 5,103,104
+ 388 355 388 355 376 327 c 132,-1,105
+ 364 299 364 299 364 202 c 132,-1,106
+ 364 105 364 105 355 75 c 132,-1,107
+ 346 45 346 45 322 25 c 132,-1,108
+ 298 5 298 5 287 5 c 132,-1,109
+ 276 5 276 5 246 22 c 4,110,111
+ 214 39 214 39 206 46 c 4,112,113
+ 180 69 180 69 174 113 c 4,114,115
+ 156 224 156 224 156 335.5 c 132,-1,116
+ 156 447 156 447 162 500.5 c 132,-1,117
+ 168 554 168 554 168 585 c 5,0,-1
 EndSplineSet
-Validated: 33
+Validated: 1
 Kerns2: 7 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
@@ -8743,43 +8746,44 @@ EndChar
 
 StartChar: t
 Encoding: 116 116 83
-Width: 582
+Width: 593
 GlyphClass: 2
 Flags: W
-HStem: 1 164<367.105 483.313>
-VStem: 132 182<258.765 861>
+HStem: 0 164<393.105 509.313>
+VStem: 132 208<257.765 860>
 LayerCount: 2
 Fore
 SplineSet
-321 1 m 2,0,1
- 158 1 158 1 140 170 c 0,2,3
- 132 245 132 245 132 498 c 0,4,5
- 132 749 132 749 142 829 c 1,6,7
- 143 850 143 850 132 880 c 128,-1,8
- 121 910 121 910 101 919.5 c 128,-1,9
- 81 929 81 929 67 951 c 128,-1,10
- 53 973 53 973 53 978 c 2,11,-1
- 53 983 l 2,12,13
- 53 989 53 989 78 1018 c 0,14,15
- 105 1048 105 1048 122 1084 c 0,16,17
- 167 1181 167 1181 202 1181 c 0,18,19
- 245 1181 245 1181 289 1139 c 0,20,21
- 351 1080 351 1080 407 1053 c 0,22,23
- 459 1028 459 1028 459 986 c 0,24,25
- 459 957 459 957 444.5 946 c 128,-1,26
- 430 935 430 935 398 926 c 0,27,28
- 367 918 367 918 341 890 c 2,29,-1
- 314 861 l 1,30,-1
- 314 556 l 1,31,32
- 314 312 314 312 339 257 c 0,33,34
- 381 165 381 165 442 165 c 0,35,36
- 467 165 467 165 489.5 145 c 128,-1,37
- 512 125 512 125 512 104.5 c 128,-1,38
- 512 84 512 84 485 47.5 c 128,-1,39
- 458 11 458 11 432 6 c 128,-1,40
- 406 1 406 1 371 1 c 2,41,-1
- 321 1 l 2,0,1
+347 -0 m 6,0,1
+ 158 0 158 0 140 170 c 4,2,3
+ 132 246 132 246 132 498 c 4,4,5
+ 132 749 132 749 142 829 c 5,6,7
+ 142 850 142 850 131 880 c 132,-1,8
+ 120 910 120 910 100.5 919.5 c 132,-1,9
+ 81 929 81 929 67 951 c 132,-1,10
+ 53 973 53 973 53 978 c 6,11,-1
+ 53 983 l 6,12,13
+ 53 989 53 989 78 1018 c 4,14,15
+ 105 1048 105 1048 122 1084 c 4,16,17
+ 167 1180 167 1180 228 1180 c 4,18,19
+ 271 1180 271 1180 315 1138 c 4,20,21
+ 377 1079 377 1079 433 1052 c 4,22,23
+ 485 1027 485 1027 485 985 c 4,24,25
+ 485 956 485 956 470.5 945 c 132,-1,26
+ 456 934 456 934 424 925 c 4,27,28
+ 393 917 393 917 367 889 c 6,29,-1
+ 340 860 l 5,30,-1
+ 340 555 l 5,31,32
+ 340 311 340 311 365 256 c 4,33,34
+ 407 164 407 164 468 164 c 4,35,36
+ 493 164 493 164 515.5 144 c 132,-1,37
+ 538 124 538 124 538 103.5 c 132,-1,38
+ 538 83 538 83 511 46.5 c 132,-1,39
+ 484 10 484 10 458 5 c 132,-1,40
+ 432 0 432 0 397 0 c 6,41,-1
+ 347 -0 l 6,0,1
 EndSplineSet
+Validated: 1
 Kerns2: 83 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 7 82 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 82 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 EndChar
 
@@ -11341,6 +11345,7 @@ LayerCount: 2
 Fore
 Refer: 70 102 N 1 0 0 1 0 0 2
 Refer: 73 105 N 1 0 0 1 674 0 2
+Validated: 1
 EndChar
 
 StartChar: uniFB02
@@ -11352,6 +11357,7 @@ LayerCount: 2
 Fore
 Refer: 70 102 N 1 0 0 1 0 0 2
 Refer: 76 108 N 1 0 0 1 674 0 2
+Validated: 1
 EndChar
 
 StartChar: uni1E3E
@@ -11388,6 +11394,7 @@ Fore
 Refer: 70 102 N 1 0 0 1 0 0 2
 Refer: 70 102 N 1 0 0 1 674 0 2
 Refer: 73 105 N 1 0 0 1 1348 0 2
+Validated: 1
 EndChar
 
 StartChar: uniFB04
@@ -11400,6 +11407,7 @@ Fore
 Refer: 70 102 N 1 0 0 1 0 0 2
 Refer: 70 102 N 1 0 0 1 674 0 2
 Refer: 76 108 N 1 0 0 1 1348 0 2
+Validated: 1
 EndChar
 
 StartChar: p
